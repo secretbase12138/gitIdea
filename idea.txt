@@ -2,3 +2,5 @@ first commit
 second commit
 master
 master
+hot-fix
+hot-fix
